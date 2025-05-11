@@ -8,8 +8,8 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
-    <div class="container py-8">
-        <P class="font-bold text-center">Team Task Manager</P>
+    <div class="py-8">
+        <P class="font-bold text-center text-5xl">Team Task Manager</P>
     </div>
 </body>
 </html>
